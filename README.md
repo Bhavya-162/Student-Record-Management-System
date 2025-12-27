@@ -1,4 +1,4 @@
-# Student-Record-Management-System
+# Student Record Management System
 
 A web-based application to manage student records using
 HTML, CSS, PHP, and MySQL with role-based access.
@@ -16,10 +16,10 @@ Run using XAMPP/WAMP and open in browser.
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](https://github.com/Bhavya-162/Student-Record-Management-System/blob/main/screenshots/login.png.png?raw=true)
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](https://github.com/Bhavya-162/Student-Record-Management-System/blob/main/screenshots/admin-dashboard.png.png?raw=true)
 
 ### Student Dashboard
-![Student Dashboard](./screenshots/student-dashboard.png)
+![Student Dashboard](https://github.com/Bhavya-162/Student-Record-Management-System/blob/main/screenshots/student-dashboard.png.png?raw=true)
