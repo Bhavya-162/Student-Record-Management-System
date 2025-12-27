@@ -1,2 +1,15 @@
 # Student-Record-Management-System
-The Student Record Management System is a web-based application using HTML, CSS, PHP, and MySQL to manage student data securely. It provides role-based access where administrators can manage student records and post announcements, while students can view their profiles and updates.
+
+A web-based application to manage student records using
+HTML, CSS, PHP, and MySQL with role-based access.
+
+## Technologies
+HTML, CSS, PHP, MySQL
+
+## Features
+- Admin: manage student records, post announcements
+- Student: view profile and announcements
+
+## How to Run
+Run using XAMPP/WAMP and open in browser.
+
