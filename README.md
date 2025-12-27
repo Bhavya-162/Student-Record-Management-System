@@ -16,11 +16,10 @@ Run using XAMPP/WAMP and open in browser.
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](screenshots/student-dashboard.png)
-
+![Student Dashboard](./screenshots/student-dashboard.png)
